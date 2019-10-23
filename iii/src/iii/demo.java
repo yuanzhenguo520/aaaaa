@@ -5,6 +5,6 @@ public class demo {
 	char[]helloArray={'y','u','a','n','z','h','e','n','g','u','o','s'};
 	String helloString=new String(helloArray);
 		System.out.println(helloString);
-
+//ff
     }
 }
